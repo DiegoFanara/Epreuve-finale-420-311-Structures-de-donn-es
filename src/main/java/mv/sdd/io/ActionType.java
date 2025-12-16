@@ -1,0 +1,12 @@
+package mv.sdd.io;
+
+// NE PAS MODIFIER
+public enum ActionType {
+    DEMARRER_SERVICE,
+    AJOUTER_CLIENT,
+    PASSER_COMMANDE,
+    AVANCER_TEMPS,
+    AFFICHER_ETAT,
+    AFFICHER_STATS,
+    QUITTER
+}
